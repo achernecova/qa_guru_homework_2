@@ -8,3 +8,4 @@
 
 - пункт 1
 - пункт 2
+# qa_guru_homework

@@ -1,7 +1,14 @@
+if __name__ == "__main__":
+    print("Привет, README!")
+    text = "Тут текст, который мне не хочется переписывать"
 
+    def add(a, b):
+        return a + b
 
-def print_hi(name):
-    print(f'Hi, {name}')
+    def greet(name):
+        print("Привет," + name)
 
-if __name__ == '__main__':
-    print_hi('Sasha')
+    numbers = [1, 2, 3, 4, 5]
+
+    greet("мир")
+    print(sum(2, 2))

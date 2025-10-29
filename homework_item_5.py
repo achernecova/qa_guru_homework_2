@@ -1,6 +1,6 @@
 if __name__ == "__main__":
     print("Привет, README!")
-    text = "Тут текст, который мне не хочется переписывать"
+    text = "Lorem Ipsum - это текст-«рыба», часто используемый в печати и веб-дизайне. Lorem Ipsum"
 
     def add(a, b):
         return a + b
@@ -11,4 +11,4 @@ if __name__ == "__main__":
     numbers = [1, 2, 3, 4, 5]
 
     greet("мир")
-    print(sum(2, 2))
+    print(add(2, 2))
